@@ -1,0 +1,6 @@
+names:
+  0: Line
+  1: Roller
+path: "datasets/"
+train: train
+val: val
