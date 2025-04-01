@@ -16,7 +16,9 @@ https://github.com/user-attachments/assets/618d51d0-2148-48b1-af8f-f3e51ed233c0
 
 🔹 **Our BeltLineNet method (with proposed enhancements)**
 
-https://github.com/user-attachments/assets/159b72da-b4fd-4eae-9082-dc6467a9988b
+https://github.com/user-attachments/assets/5809b10a-e67f-4fc3-b59f-7450e5561a1b
+
+
 
 
 
