@@ -8,10 +8,11 @@ This repository introduces our work "*BeltLineNet: A Lightweight Real-time Netwo
 
 Two demonstration videos have been uploaded for intuitive comparison:
 
-- 🔹 **Baseline method **
-  https://github.com/user-attachments/assets/4e8c1204-a375-4d94-ba66-6823c270645d
+- 🔹 **Baseline method**
+  https://github.com/user-attachments/assets/8aff4308-4e9f-4dab-b7a9-9d8e4277e8b8
 - 🔹 **Our BeltLineNet method (with proposed enhancements)**
-  https://github.com/user-attachments/assets/e0b55f70-0604-4b53-bbd8-c4ebc860bc4a
+  https://github.com/user-attachments/assets/f41a324d-80db-48b0-b711-c772476b678b
+
 
 ## 📂 Dataset: Circular pipe Conveyor belt line Deviation Dataset (CCDD)
 
