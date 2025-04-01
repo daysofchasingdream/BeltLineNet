@@ -8,9 +8,16 @@ This repository introduces our work "*BeltLineNet: A Lightweight Real-time Netwo
 
 Two demonstration videos have been uploaded for intuitive comparison:
 
-- 🔹 **Baseline method**
-  https://github.com/user-attachments/assets/8aff4308-4e9f-4dab-b7a9-9d8e4277e8b8
-- 🔹 **Our BeltLineNet method (with proposed enhancements)**
+ 🔹 **Baseline method**
+  
+
+
+https://github.com/user-attachments/assets/7572f9b2-e9a6-452f-becf-71df2261bbeb
+
+
+  
+ 🔹 **Our BeltLineNet method (with proposed enhancements)**
+  
   https://github.com/user-attachments/assets/f41a324d-80db-48b0-b711-c772476b678b
 
 
