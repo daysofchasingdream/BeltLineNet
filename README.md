@@ -1,21 +1,24 @@
 # BeltLineNet: Real-time Circular Conveyor Belt Deviation Detection
 
-## 🌟 Introduction
+## 🎯 Introduction
 
 Detecting deviation in circular pipe conveyors is essential for preventing material spillage, environmental contamination, and ensuring operational efficiency.
 
-This repository introduces our work "*BeltLineNet: A Lightweight Real-time Network for Circular Conveyor Belt Deviation Detection*". The current version provides **experimental results** and **dataset access**. Code, implementation details, and training weights will be released **upon paper acceptance**.
+This repository introduces our work "*BeltLineNet: A Lightweight Real-time Network for Circular Conveyor Belt Deviation Detection*". 
 
 Two demonstration videos have been uploaded for intuitive comparison:
 
- 🔹 **Baseline method**
+🔹 **Baseline method**
 
-https://github.com/user-attachments/assets/5887c2d1-690e-4569-b5f2-776de6c90dc7
+https://github.com/user-attachments/assets/618d51d0-2148-48b1-af8f-f3e51ed233c0
 
-  
- 🔹 **Our BeltLineNet method (with proposed enhancements)**
 
-https://github.com/user-attachments/assets/9e0b662d-3d44-4f2a-a4eb-9fdf96a8e29e
+
+🔹 **Our BeltLineNet method (with proposed enhancements)**
+
+https://github.com/user-attachments/assets/8af2cb04-d1d1-4d21-8049-5485eed51e29
+
+
 
 
 
@@ -47,4 +50,3 @@ The CCDD dataset, including images and OBB annotations, is publicly available at
 📋 [Zenodo Repository - CCDD Dataset](https://doi.org/10.5281/zenodo.15094230)
 
 Original source videos used to create the dataset are also included in this repository.
-
