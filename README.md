@@ -50,3 +50,21 @@ The CCDD dataset, including images and OBB annotations, is publicly available at
 📋 [Zenodo Repository - CCDD Dataset](https://doi.org/10.5281/zenodo.15094230)
 
 Original source videos used to create the dataset are also included in this repository.
+
+### 📖 Citation
+🙏 If you find this dataset or project useful in your research or applications, please consider citing the following paper:
+
+```
+@ARTICLE{10974487,
+  author={Zhao, Long and Su, Jinhui and Zhong, Yusheng and Xie, Weiwei and Su, Jinya and Chen, Xisong and Chen, Congyan and Li, Shihua},
+  journal={IEEE Sensors Journal}, 
+  title={BeltLineNet: A Shape-Prior-Guided Lightweight Network for Real-Time Deviation Detection in Circular Pipe Conveyors}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Belt Deviation;Circular Pipe Conveyor;Machine Vision;Model Compression;Object Detection},
+  doi={10.1109/JSEN.2025.3561351}
+}
+```
+
