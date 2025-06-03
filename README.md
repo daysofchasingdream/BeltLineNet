@@ -60,11 +60,10 @@ Original source videos used to create the dataset are also included in this repo
   journal={IEEE Sensors Journal}, 
   title={BeltLineNet: A Shape-Prior-Guided Lightweight Network for Real-Time Deviation Detection in Circular Pipe Conveyors}, 
   year={2025},
-  volume={},
-  number={},
-  pages={1-1},
-  keywords={Belt Deviation;Circular Pipe Conveyor;Machine Vision;Model Compression;Object Detection},
-  doi={10.1109/JSEN.2025.3561351}
-}
+  volume={25},
+  number={11},
+  pages={20024-20036},
+  keywords={Belts;Sensors;Real-time systems;Accuracy;Inspection;Feature extraction;Training;Robots;Intelligent sensors;Image edge detection;Belt deviation;circular pipe conveyor;machine vision;model compression;object detection},
+  doi={10.1109/JSEN.2025.3561351}}
 ```
 
